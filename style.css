@@ -1,0 +1,13 @@
+span {
+  font-size: 5em;
+  font-family: "Bebas Neue";
+  position: relative;
+  top: 50vh;
+  left: 10vw;
+}
+.copySpan {
+  position: absolute;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  z-index: -10;
+}
